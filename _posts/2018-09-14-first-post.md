@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Set up Jekyll"
 date: 2018-09-14
 ---
