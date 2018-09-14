@@ -1,4 +1,6 @@
 ---
+layout: default
+Title: index
 ---
 # Welcome to my blog
 
