@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 Title: index
 ---
 # Welcome to my blog
