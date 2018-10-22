@@ -1,0 +1,10 @@
+---
+layout: post
+title: "combining LaTeX, pythonTeX, and siunix"
+date: 2018-10-16
+---
+Combining LaTeX (and XeTeX etc) with python to make for (a) reproducable papers etc., and (b) making exam question setting and solutions more reliable.
+
+The package pythontex is the key. It is available on CTAN.
+
+With this can insert blocks of python into LaTeX document.
